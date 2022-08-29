@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ewie21
-- 👀 I’m interested in APIs, ML, WebDev, Rust, Sociology, Political Science, Philosophy
+- 👀 I’m interested in APIs, ML, WebDev, Rust, Sociology, Political Science, Philosophy, SQl is tolerated
 - 🌱 I’m currently learning Rest Api and working on building Neural Networks from scratch
 - 💞️ If you want to collab, hit me up on discord at Ewiette#4813
 
