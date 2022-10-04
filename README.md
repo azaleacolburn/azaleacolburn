@@ -1,8 +1,8 @@
 - @Ewie21
 - I’m interested in APIs, ML, WebDev, Rust, Sociology, Political Science, Philosophy, SQl is tolerated.
-- I can also code in Java, Python, and C#/
-- I’m currently working on coding the k Nearest Neighbor algorithm in Java
-- If you want to collab, hit me up on discord at Ewiette#4813
+- I can also code in Java, Python, JavaScript, TypeScript, and C#
+- I’m currently working on coding Neural Networks from scratch
+- If you want to collab, hit me up on discord at Ewiette#4813 (Except for you, Jack)
 
 <!---
 Ewie21/Ewie21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
