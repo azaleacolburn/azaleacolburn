@@ -1,6 +1,7 @@
 - @Ewie21
 - I’m interested in APIs, ML, WebDev, Rust, Sociology, Political Science, Philosophy, SQl is tolerated.
-- I can also code in Java, Python, JavaScript, TypeScript, and C#
+- I can also code in Java, Python and, TypeScript
+- Also on the Catlin Gabel FRC team
 - I’m currently working on coding Neural Networks from scratch
 - If you want to collab, hit me up on discord at Ewiette#4813 (Except for you, Jack)
 
