@@ -5,7 +5,7 @@
 - I’m currently working on [darjeeling](https://crates.io/crates/darjeeling), just for fun
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewie21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewie21)](https://github.com/Ewie21/github-readme-stats)
 
 <!-- [![Elo's github stats](https://github-readme-stats.vercel.app/api?username=Ewie21)](https://github.com/Ewie21/github-readme-stats) -->
 
