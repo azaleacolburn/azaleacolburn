@@ -1,5 +1,5 @@
 ## Hi, it's Elo
-- I’m enjoy learning more about Rust, Sociology, Political Science, and Philosophy.
+- I enjoy learning more about low-level programming, sociology, political science, and philosophy.
 - I can also program in Java, Python, and TypeScript, SQL is tolerated.
 - Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/)
 - I’m currently working on [darjeeling](https://crates.io/crates/darjeeling), just for fun
