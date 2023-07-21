@@ -1,13 +1,12 @@
 ## Hi, it's Elo
-- I enjoy learning more about low-level programming, sociology, political science, and philosophy.
-- I can also program in Java, Python, and TypeScript, SQL is tolerated.
+- I enjoy learning more about programming, sociology, political science, and philosophy.
+- I can also program in Rust, C, Java, Python, and TypeScript, SQL is tolerated.
 - Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/)
-- I’m currently working on [darjeeling](https://crates.io/crates/darjeeling), just for fun
+- I’m currently working on [floralcc](https://github.com/Ewie21/floralcc), just for fun
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewie21)](https://github.com/Ewie21/github-readme-stats) -->
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewie21)](https://github.com/Ewie21/github-readme-stats) --->
 
-<!-- [![Elo's github stats](https://github-readme-stats.vercel.app/api?username=Ewie21)](https://github.com/Ewie21/github-readme-stats) -->
 
 
 <!---
