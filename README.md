@@ -1,6 +1,6 @@
 ## Hi, it's Elo
 - I enjoy learning more about programming, sociology, political science, and philosophy.
-- I can also program in Rust, C, Java, Python, and TypeScript, SQL is tolerated.
+- I can also program in Rust, C, Java, Python, and TypeScript; SQL is tolerated.
 - Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/)
 - I’m currently working on [floralcc](https://github.com/Ewie21/floralcc), just for fun
 
