@@ -1,4 +1,4 @@
-## Hi, it's Elo
+## Hi, I'm Azalea
 - I enjoy learning more about programming, sociology, political science, and philosophy.
 - I can also program in Rust, C, Java, Python, and TypeScript; SQL is tolerated.
 - Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/)
