@@ -11,7 +11,8 @@ T̶̬̪̝̼̯̜̝̏̽̚H̨̟̞̿ͪ͌̍͐̓E̠͓͆̌̈ ̣̗̞̘C̥̙͊͗Oͪ́ͧ̚
 
 
 <br>
-![](https://skillicons.dev/icons?i=rust,c,java,wasm,ts,svelte&perline=6)
+
+[![](https://skillicons.dev/icons?i=rust,c,java,wasm,ts,svelte&perline=6)](https://skillicons.dev)
 <!--- I can also program in Rust, C, Java, Python, and TypeScript; SQL is tolerated.--->
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewie21)](https://github.com/Ewie21/github-readme-stats)--->
 
