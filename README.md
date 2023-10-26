@@ -1,7 +1,7 @@
 # Hi, I'm Azalea
 - I enjoy learning more about computer science, politics, and philosophy.
 - Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/)
-- I’m currently working on [floralcc](https://github.com/Ewie21/floralcc) and an ioccc submission, just for fun
+- I’m currently working on [floralcc](https://github.com/Ewie21/floralcc) and an [ioccc](https://www.ioccc.org/) submission, just for fun
 
 <br>
   
