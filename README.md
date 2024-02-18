@@ -1,7 +1,8 @@
 # Hi, I'm Azalea
-- I enjoy learning more about computer science, politics, and philosophy.
+- Among other things, I like computer science, anti-fascism, and philosophy.
 - Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/)
 - I’m currently working on [rhododendron](https://github.com/Ewie21/rhododendron) and an [ioccc](https://www.ioccc.org/) submission, just for fun
+- I like making software but dislike using it.
 
 <br>
   
