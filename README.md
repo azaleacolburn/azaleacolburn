@@ -1,7 +1,7 @@
 # Hi, I'm Azalea
 - Among other things, I care about FOSS, Rust, and anti-Fascism.
-- Application Software Manager on the [Catlin Gabel FRC team](https://www.team1540.org/) and am doing Software Development on [Synthesis](https://github.com/Autodesk/synthesis) at Autodesk
-- I’m currently working on [rhododendron](https://github.com/Ewie21/rhododendron), sonder (a shared standard library between C, Rust, and Zig), and an [ioccc](https://www.ioccc.org/) submission, just for fun
+- Application Software Manager on [FRC Team 1540](https://www.team1540.org/) and Software Development Intern at Autodesk, working on [Synthesis](https://github.com/Autodesk/synthesis).
+- I’m currently working on [sonder](https://www.github.com/azaleacolburn/sonder) (a static pointer analyzer for converting c code to idiomatic Rust) and a few [ioccc](https://www.ioccc.org/) submissions, just for fun
 
 [comment]: <> (nulla crux, nulla corona)
 
