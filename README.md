@@ -1,6 +1,6 @@
 # Hi, I'm Azalea
 - Among other things, I care about FOSS, Rust, and anti-Fascism.
-- Application Software Manager on [FRC Team 1540](https://www.team1540.org/) and Software Development Intern at Autodesk, working on [Synthesis](https://github.com/Autodesk/synthesis).
+- Application Software Manager on [FRC Team 1540](https://www.team1540.org/) and Software Engineering Intern at Autodesk, working on [Synthesis](https://github.com/Autodesk/synthesis).
 - I’m currently working on [sonder](https://www.github.com/azaleacolburn/sonder) and a few [ioccc](https://www.ioccc.org/) submissions, just for fun
 
 [comment]: <> (nulla crux, nulla corona)
